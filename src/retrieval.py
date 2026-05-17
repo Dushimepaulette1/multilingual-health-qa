@@ -1,5 +1,5 @@
 """
-Semantic retrieval utilities — the best-performing approach in this project
+Semantic retrieval utilities - the best-performing approach in this project
 (Experiment 5/8). Embeds questions with a multilingual sentence-embedding
 model and retrieves the most similar training question's answer.
 """

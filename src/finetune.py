@@ -13,7 +13,7 @@ from datasets import Dataset
 
 
 def build_prompt(question: str, language: str = None) -> str:
-    """Build the input prompt for the model. Currently a passthrough —
+    """Build the input prompt for the model. Currently a passthrough -
     language conditioning was tested but not found necessary for this setup."""
     return str(question).strip()
 
