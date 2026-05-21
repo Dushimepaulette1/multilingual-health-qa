@@ -47,6 +47,6 @@ def make_submission(ids, predictions, output_path, expected_length: int = None):
 
     output_path = Path(output_path)
     sub.to_csv(output_path, index=False, encoding='utf-8')
-    print(f'Saved to {output_path} — shape {sub.shape}')
+    print(f'Saved to {output_path} - shape {sub.shape}')
 
     return sub
