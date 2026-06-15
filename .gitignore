@@ -1,0 +1,18 @@
+# Data files (too large / provided by competition, not redistributed)
+*.csv
+!submissions/sample*.csv
+
+# Model checkpoints (too large for git)
+*mt5-finetuned*/
+*mt5-small-finetuned*/
+checkpoint-*/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
