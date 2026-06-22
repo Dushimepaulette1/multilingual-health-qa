@@ -23,12 +23,8 @@ in the same language. Evaluated on ROUGE-1 F1, ROUGE-L F1, and LLM-as-a-Judge.
 │   ├── retrieval.py
 │   ├── finetune.py
 │   └── submission.py
-├── docs/
-│   └── EXPERIMENT_LOG.md         <- full experiment tracking table (all 10 experiments)
-├── submissions/
-│   └── (generated CSVs — not committed, see .gitignore)
-└── report/
-    └── Dushime_Paulette_FinalProject.pdf   <- full written report
+└── docs/
+    └── EXPERIMENT_LOG.md         <- full experiment tracking table (all 10 experiments)
 ```
 
 ## How to reproduce
