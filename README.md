@@ -64,8 +64,7 @@ here. To obtain it:
    required `ID, TargetRLF1, TargetR1F1, TargetLLM` columns (all three
    target columns identical, per competition rules).
 
-[![Open In Colab](https://colab.research.google.com/github/Dushimepaulette1/multilingual-health-qa/blob/main/notebooks/training_pipeline.ipynb)](#)
-<!-- replace # with the actual Colab share link once notebook is uploaded -->
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dushimepaulette1/multilingual-health-qa/blob/main/notebooks/training_pipeline.ipynb)
 
 ## Approach summary
 
